@@ -81,7 +81,7 @@ soupsieve==2.0
 texttable==1.6.2
 tushare==1.2.51
 Twisted==19.10.0
-urllib3==1.25.8
+urllib3==1.26.5
 w3lib==1.21.0
 wcwidth==0.1.8
 Werkzeug==1.0.0
