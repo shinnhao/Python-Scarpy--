@@ -71,7 +71,7 @@ redis==3.4.1
 requests==2.23.0
 scikit-learn==0.22.1
 scipy==1.4.1
-Scrapy==1.8.0
+Scrapy==2.6.1
 scrapy-redis==0.6.8
 service-identity==18.1.0
 simplejson==3.17.0
